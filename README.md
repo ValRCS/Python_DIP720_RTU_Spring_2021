@@ -20,3 +20,4 @@ https://www.anaconda.com/download/
 ### Course Syllabus
 * Core Syntax
 * Flow Control
+* Loops

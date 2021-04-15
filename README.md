@@ -21,3 +21,8 @@ https://www.anaconda.com/download/
 * Core Syntax
 * Flow Control
 * Loops
+* Data Structures
+* Classes
+* Standard Library
+* Packaging
+* Files
